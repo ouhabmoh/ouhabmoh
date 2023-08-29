@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm OUHAB Mohaed Ismail</h1>
-<h3 align="center">A passionate Backend Engineer and AI Entuistic</h3>
+<h1 align="center">Hi 👋, I'm OUHAB Mohamed Ismail</h1>
+<h3 align="center">A passionate Backend Engineer and AI Enthusiastic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ouhabmoh&label=Profile%20views&color=0e75b6&style=flat" alt="ouhabmoh" /> </p>
 
