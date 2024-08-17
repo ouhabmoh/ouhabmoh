@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm OUHAB Mohamed Ismail</h1>
-<h3 align="center">A passionate Backend Engineer and AI Enthusiastic</h3>
+<h3 align="center">A passionate Backend & DevOps Engineer and AI Enthusiastic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ouhabmoh&label=Profile%20views&color=0e75b6&style=flat" alt="ouhabmoh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ouhabmoh" alt="ouhabmoh" /></a> </p>
 
-- 🔭 I’m currently working as **a Freelancer**
+- 🔭 I’m currently working as a Backend & DevOps Engineer at Edraak Technologies.
 
-- 🌱 I’m currently learning **and diving in-depth of backend engineering and machine learning**
+- 🌱 I’m currently mastering **and diving in-depth of backend engineering and DevOps**
 
-- 👯 I’m looking to collaborate on **Backend or Machine learning Projects**
+- 👯 I’m looking for new challenges on **Backend learning Projects** that requires scale and apply modern software engineering principles.
 
-- 👨‍💻 All of my projects are available at [(Coming Soon)]((Coming Soon))
+- 👨‍💻 All of my projects are available at Here
 
-- 💬 Ask me about **Backend or Machine learning**
+- 💬 Ask me about **Backend or DevOps**
 
 - 📫 How to reach me **ouhabmohamedismail@gmail.com**
 
